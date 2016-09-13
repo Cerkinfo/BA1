@@ -19,7 +19,7 @@ Le Cercle Informatique est l'association des étudiants en informatique. Elle a 
 
 # Cours et support d'étude
 
-Chaque professeur a sa propre méthode pour partager ses slides ou syllabi, beaucoup utilisent l'[UV](https://uv.ulb.ac.be/) (Université Virtuelle) mais certains utilisent leurs sites personnels ou encore d'autres méthodes exotiques. La méthode utilisée par chaque professeur est exposée lors des premier cours. Cependant, l'université demande aux professeurs de priviligier l'UV pour les cours de première année.
+Chaque professeur a sa propre méthode pour partager ses slides ou syllabi, beaucoup utilisent l'[UV](https://uv.ulb.ac.be/) (Université Virtuelle) mais certains utilisent leurs sites personnels ou encore d'autres méthodes exotiques. La méthode utilisée par chaque professeur est exposée lors des premier cours. Cependant, l'université demande aux professeurs de privilégier l'UV pour les cours de première année.
 
 1.  Pour trouver des syllabi, slides, tp's, corrections ou anciens examens en ligne, voilà où chercher dans l'ordre:
 
@@ -33,13 +33,13 @@ Chaque professeur a sa propre méthode pour partager ses slides ou syllabi, beau
 
 2.  Pour trouver un syllabus en version papier, voilà ou chercher :
 
-    *   les [PUB](http://www.ulb.ac.be/pub/) (Presse Universitaire de Bruxelles) au Solbosh
+    *   les [PUB](http://www.ulb.ac.be/pub/) (Presse Universitaire de Bruxelles) au Solbosch
 
 ## Dochub
 
-[Dochub](https://dochub.be/) est une mine d'or. C'est l'endroit ou tu trouveras un paquet de résumés, corrigés, anciens examens, notes de cours, etc...  Cette plateforme d'échange est gérer par des étudiants pour les étudiants dans l'idée que l'entraide est un premier pas vers la réussite. Elle est accessible grâce à ton NetID (si tu ne l'as pas encore, pas d'inquiétude, l'année ne fait que commencer).
+[Dochub](https://dochub.be/) est une mine d'or. C'est l'endroit ou tu trouveras un paquet de résumés, corrigés, anciens examens, notes de cours, etc... Cette plateforme d'échange est gérée par des étudiants pour les étudiants dans l'idée que l'entraide est un premier pas vers la réussite. Elle est accessible grâce à ton NetID (si tu ne l'as pas encore, pas d'inquiétude, l'année ne fait que commencer).
 
-On ne le répétera jamais assez : vas-y, vraiment, c'est indispensable, ça permet de trouver des documents qui montre à quoi s'attendre et de se préparer aux examens. Cependant, bien que tu y trouveras une riche collection d'exercices et de synthèses qui compléteront tes notes et tes syllabi, ne te leurres pas, la base de la réussite reste avant tout l'étude du cours et de travailler les TPs soi-même.
+On ne le répétera jamais assez : vas-y, vraiment, c'est indispensable, ça permet de trouver des documents qui montrent à quoi s'attendre et de se préparer aux examens. Cependant, bien que tu y trouveras une riche collection d'exercices et de synthèses qui compléteront tes notes et tes syllabi, ne te leurre pas, la base de la réussite reste avant tout l'étude du cours et de travailler les TPs soi-même.
 
 En plus, le délégué cours du Cerkinfo qui donne aussi les guidances a trié l'ensemble des documents juste pour toi.
 
@@ -48,14 +48,14 @@ Encore une fois, n'hésite pas, et fonce sur [Dochub](https://dochub.be/)
 
 ## Le groupe Facebook de ton année
 
-Chaque année, un groupe facebook est créé pour une meilleur colaboration et pour faciliter la communication entre étudiant de BA1.
+Chaque année, un groupe facebook est créé pour une meilleure collaboration et pour faciliter la communication entre étudiants de BA1.
 
 ## Guidances
 
 Les guidances sont des cours particuliers offerts par des étudiants de master pendant l’heure de midi sur les sujets qui vous posent problème. 
-Elles sont dispensés aux salles informatiques du NO4 pour l'informatique et au Batiment A pour les maths.
+Elles sont dispensées aux salles informatiques du NO4 pour l'informatique et au Batiment A pour les maths.
 
-C'est gratuit et c'est un bon moyen d'obtenir des explications plus clair et plus personnalisé sur un sujet qui te pose problème. C'est aussi un moyen d'obtenir de l'aide sur les projets personnels ou tu es livré à toi même.
+C'est gratuit et c'est un bon moyen d'obtenir des explications plus claires et plus personnalisées sur un sujet qui te pose problème. C'est aussi un moyen d'obtenir de l'aide sur les projets personnels où tu es livré à toi même.
 
 Un bon conseil : vas-y, les étudiants dispensant les guidances sont cool et ça aide vraiment!
 
@@ -93,13 +93,13 @@ Ces informations proviennent du président du jury, Yves Roggeman.
 
 # Communiquer
 
-Les études en informatique sont pour certains très différentes de ce dont tu t'attends. Par exemple, un jour, tu te retrouves avec un projet de programmation, seul, devant ton énoncé et ton clavier. Si dans ces cas là tu es bloqué (oui, ça t'arriveras, sans exception), la pire des choses à faire est de rester seul.
+Les études en informatique sont pour certains très différentes de ce dont tu t'attends. Par exemple, un jour, tu te retrouves avec un projet de programmation, seul, devant ton énoncé et ton clavier. Si dans ces cas là tu es bloqué (oui, ça t'arrivera, sans exception), la pire des choses à faire est de rester seul.
 
-Vas en cours, parle avec les autres, demande leur comment ils ont abordé le problème. De nouveau, demander conseil, ce n'est pas de la triche). Donner un conseil ne te pénalisera pas non plus. En effet, en informatique, il n'y a pas assez d'étudiants et il n'y a donc pas de compétition pour un nombre de places limité.
+Va en cours, parle avec les autres, demande leur comment ils ont abordé le problème. De nouveau, demander conseil, ce n'est pas de la triche). Donner un conseil ne te pénalisera pas non plus. En effet, en informatique, il n'y a pas assez d'étudiants et il n'y a donc pas de compétition pour un nombre de places limité.
 
 Il existe aussi des guidances comme mentionné ci-dessus : va-y en cas de problème, ça marche et c'est là pour t'aider à avancer !
 
-Tes assistants aussi sont là pour que tu puisses leur poser des questions. Ce sont des humains qui ont fait les mêmes études que toi, n'aies pas peur d'aller vers eux.
+Tes assistants aussi sont là pour que tu puisses leur poser des questions. Ce sont des humains qui ont fait les mêmes études que toi, n'aie pas peur d'aller vers eux.
 
 
 # Partager
@@ -124,14 +124,14 @@ Relayer à tes camarades, par exemple sur le groupe facebook, les informations i
 L’ULB est une université qui est principalement distribuée sur 3 campus de gauche à droite:
 
 *   le campus de La Plaine où la majorité des cours d'informatique sont données.
-*   le campus du Solbosh où quelques cours du bachelier sont donnés dont le cours de math de première année.
+*   le campus du Solbosch où quelques cours du bachelier sont donnés dont le cours de math de première année.
 *   le campus d’Erasme où tu ne mettras pas les pieds pour le cursus d’informatique
 
-Il arrive fréquemment que, sur une même journée, les cours soient donnés sur le campus de la Plaine et du Solbosh. Cela oblige les étudiants à se déplacer d'un campus à l'autre, situés à une distance de </span>[environ 1km ](https://www.google.fr/maps/dir/50.8137593,4.3843003/50.8181703,4.3959757/@50.8140809,4.3881009,16z?hl=fr). En temps normal, les bus 71 et 72 assurent le trajet.
+Il arrive fréquemment que, sur une même journée, les cours soient donnés sur le campus de la Plaine et du Solbosch. Cela oblige les étudiants à se déplacer d'un campus à l'autre, situés à une distance de </span>[environ 1km ](https://www.google.fr/maps/dir/50.8137593,4.3843003/50.8181703,4.3959757/@50.8140809,4.3881009,16z?hl=fr). En temps normal, les bus 71 et 72 assurent le trajet.
 
 **Petits conseils :**
 
-1.  Si tu es forcé à te déplacer entre les deux campus, utilises l'application qui permet de voir le réseau STIB afin de ne pas attendre un bus qui arrive dans trop longtemps.
+1.  Si tu es forcé à te déplacer entre les deux campus, utilise l'application qui permet de voir le réseau STIB afin de ne pas attendre un bus qui arrive dans trop longtemps.
 
 2.  Bien qu’ils soient parfois vides, n’oublie pas que des Villos sont à disposition à l’entrée des deux campus, de plus il existe une [promotion](https://www.ulb.ac.be/mobilite/Velo.html) pour les étudiants de l’ULB pendant 6 mois
 
@@ -149,21 +149,21 @@ Pour imprimer pas cher le mieux c'est le [Crazy Copy Center](http://www.crazycop
 
 Avant d'imprimer un cours, vérifie aux PUB, parce que certains cours, vendus à des prix raisonnables, y sont déjà imprimés et reliés. Les PUB font également les impressions des mémoires, voir la [liste complète](https://www.ulb.ac.be/pub/produitsimprimerie.html).
 
-Au Solbosh, pour imprimer sans trop marcher, il y a le [Yes Copy](https://www.google.fr/maps?q=yes+copy+buyl&bav=on.2,or.&bvm=bv.99804247,d.d2s&biw=1445&bih=767&um=1&ie=UTF-8&sa=X&ved=0CAgQ_AUoA2oVChMIj5rd2OGrxwIVQVcaCh2_iApZ) à 100m de l'entrée du Solbosh (côté Cim. d'Ix.) . Le prix de l'impression n&b est de 0,05€. Pour imprimer moins cher en grande quantité, il y a [Fac One](https://www.google.fr/maps/place/Fac-One/@50.8150712,4.3880063,18z/data=!3m1!4b1!4m2!3m1!1s0x47c3c4dad5c08b39:0x12bff463166863b4) à 300m de l'entrée du Solbosh (côté Cim. d'Ix.) vers le Cimetière d'Ixelles. Ils font également des impressions 3D.
+Au Solbosch, pour imprimer sans trop marcher, il y a le [Yes Copy](https://www.google.fr/maps?q=yes+copy+buyl&bav=on.2,or.&bvm=bv.99804247,d.d2s&biw=1445&bih=767&um=1&ie=UTF-8&sa=X&ved=0CAgQ_AUoA2oVChMIj5rd2OGrxwIVQVcaCh2_iApZ) à 100m de l'entrée du Solbosch (côté Cim. d'Ix.) . Le prix de l'impression n&b est de 0,05€. Pour imprimer moins cher en grande quantité, il y a [Fac One](https://www.google.fr/maps/place/Fac-One/@50.8150712,4.3880063,18z/data=!3m1!4b1!4m2!3m1!1s0x47c3c4dad5c08b39:0x12bff463166863b4) à 300m de l'entrée du Solbosch (côté Cim. d'Ix.) vers le Cimetière d'Ixelles. Ils font également des impressions 3D.
 
 
 # Se restaurer
 
-La cafétéria de la Plaine c'est pratique quand on n'a pas le temps de vadrouiller mais il existe pleins d'autres endroits où bien manger. Fin gourmet? Dis merci à l'Urlab qui a réalisé un [guide culinaire](http://wiki.urlab.be/Bouffe_a_Proximitey) non exhaustif mais bien fourni. Partage-y tes expériences !
+La cafétéria de la Plaine c'est pratique quand on n'a pas le temps de vadrouiller mais il existe plein d'autres endroits où bien manger. Fin gourmet? Dis merci à l'Urlab qui a réalisé un [guide culinaire](http://wiki.urlab.be/Bouffe_a_Proximitey) non exhaustif mais bien fourni. Partage-y tes expériences !
 
 
 ## La cafet de la Plaine
 
-Les sandwichs ne sont pas chers (~1,85€) mais bien souvent (sur le temps de midi) la file d'attente est très longue et n'avance vraiment pas vite... De plus les sandwishs sont proportionnels au prix. Le prix est réservé aux étudiants, il est possible que ta carte d'étudiant te soit demandée. Ils proposent également des pates (~3€) uniquement sur les heures du midi. Il y a également un repas chaud (~4€) de qualité très moyenne.
+Les sandwichs ne sont pas chers (~1,85€) mais bien souvent (sur le temps de midi) la file d'attente est très longue et n'avance vraiment pas vite... De plus les sandwiches sont proportionnels au prix. Le prix est réservé aux étudiants, il est possible que ta carte d'étudiant te soit demandée. Ils proposent également des pâtes (~3€) uniquement sur les heures du midi. Il y a également un repas chaud (~4€) de qualité très moyenne.
 
 ## La cafet de la VUB
 
-La cafet de la VUB, c'est pas loin, c'est moins chère (tu as droit aux réductions étudiantes ULB), et meilleur que la cafet de la Plaine ! Une fois sorti du NO du côté du 2e étage, continue tout droit et descends les escaliers pour te retrouver sur la petite route. Pars sur ta gauche et continue tout droit jusqu’à arriver au bout du chemin. Un peu plus loin, sur ta droite, se trouvent des escaliers que tu devras descendre.
+La cafet de la VUB, c'est pas loin, c'est moins cher (tu as droit aux réductions étudiantes ULB), et meilleur que la cafet de la Plaine ! Une fois sorti du NO du côté du 2e étage, continue tout droit et descends les escaliers pour te retrouver sur la petite route. Pars sur ta gauche et continue tout droit jusqu’à arriver au bout du chemin. Un peu plus loin, sur ta droite, se trouvent des escaliers que tu devras descendre.
 
 Rentre dans le bâtiment qui se trouve en face de toi, par la porte se trouvant non loin des escaliers que tu viens de descendre. Passe la double-porte sur ta gauche. Monte les escaliers pour sortir par la porte F4 se trouvant à quelques pas devant toi. Une fois à ce stade, la cafétaria de la VUB te fait face !
 
@@ -175,7 +175,7 @@ Rentre dans le bâtiment qui se trouve en face de toi, par la porte se trouvant 
 *   Cimetière d'Ixelles
     *   [Carrefour Market](https://www.google.fr/maps/place/Carrefour+market+BOONDAEL+%28IXELLES%29/@50.816823,4.389189,17z/data=!3m1!4b1!4m2!3m1!1s0x47c3c4c516ebd5e7:0x4bbd9cd27acf5607) sur la chaussée de Boondael
     *   [Okay](https://www.google.fr/maps/place/Okay+Compact/@50.8150137,4.389036,18.36z/data=!4m2!3m1!1s0x47c3c4dacb604d15:0x5a527724e1792c14) sur l'avenue de l'Université
-*   Solbosh
+*   Solbosch
     *   [Shanti ](https://www.google.fr/maps/place/Shanti+-+Restaurant/@50.8169208,4.3810688,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0xe70e82779bbabf96)magasin bio sur l'avenue Buyl
     *   [Carrefour express](https://www.google.fr/maps/place/Carrefour+express+A.+BUYL/@50.8181287,4.3796403,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0x820b1f2ee6840436) en contrebas de l'avenue Buyl
 
@@ -189,7 +189,7 @@ Conseils :
 
 A sec ?
 
-*   ING sur le campus du Solbosh
+*   ING sur le campus du Solbosch
 *   Belfius sur le cimetière d'Ixelles
 *   BnP Paribas Fortis sur le cimetière d'Ixelles
 *   ING sur le cimetière d'Ixelles
