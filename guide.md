@@ -35,6 +35,11 @@ Chaque professeur a sa propre méthode pour partager ses slides ou syllabi, beau
 
     *   les [PUB](http://www.ulb.ac.be/pub/) (Presse Universitaire de Bruxelles) au Solbosh
 
+<<<<<<< HEAD
+=======
+3. Ne pas rater le premier cours de chaque matière, c'est souvent à ce moment que le professeur explique où trouver le cours et les slides. Mais également, le type d'examen, le nombre de projets, interros intermédiaires, la pondération des points dans la note finale...
+
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 ## Dochub
 
 [Dochub](https://dochub.be/) est une mine d'or. C'est l'endroit ou tu trouveras un paquet de résumés, corrigés, anciens examens, notes de cours, etc...  Cette plateforme d'échange est gérer par des étudiants pour les étudiants dans l'idée que l'entraide est un premier pas vers la réussite. Elle est accessible grâce à ton NetID (si tu ne l'as pas encore, pas d'inquiétude, l'année ne fait que commencer).
@@ -45,7 +50,11 @@ En plus, le délégué cours du Cerkinfo qui donne aussi les guidances a trié l
 
 Encore une fois, n'hésite pas, et fonce sur [Dochub](https://dochub.be/)
 
+<<<<<<< HEAD
 ## Le groupe Facebook de ton année
+=======
+## Le groupe facebook de ton année
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 
 Chaque année, un groupe facebook est créé pour une meilleur colaboration et pour faciliter la communication entre étudiant de BA1.
 
@@ -66,7 +75,11 @@ Il est intéressant mais pas indispensable de savoir qu'il existe une bibliothè
 
 # Réussir
 
+<<<<<<< HEAD
 ## Mais qu'est ce réussir?
+=======
+**Mais qu'est ce réussir?**
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 
 1.  _Il n’y a (plus) aucune notion de « réussite d’année », ni d’échec, ni de moyenne, ni d’aucun autre concept qui ferait appel à une référence annuelle. À chaque délibération, le jury examine le résultat individuel de chaque étudiant pour chaque cours — on dit « unité d’enseignement » — éclairé par l’ensemble de ses résultats au cours du cycle durant toutes les années académiques précédentes — ce qui constitue le « profil de l’étudiant »._
 
@@ -80,6 +93,7 @@ Il est intéressant mais pas indispensable de savoir qu'il existe une bibliothè
 
 Ces informations proviennent du président du jury, Yves Roggeman.
 
+<<<<<<< HEAD
 ## Conseils des anciens délégués
 
 - "Le cours de programmation est vraiment important car il sert de base aux cours qui suivent. Louper ou reporter ce cours là correspond à ne pas pouvoir faire les suivants comme algo, langages de programmation, etc... "
@@ -87,6 +101,8 @@ Ces informations proviennent du président du jury, Yves Roggeman.
 - " Ne pas rater le premier cours de chaque matière, c'est souvent à ce moment que le professeur explique où trouver le cours et les slides. Mais également, le type d'examen, le nombre de projets, interros intermédiaires, la pondération des points dans la note finale..."
 
 - "Ne reste pas seul, surtout si tu es bloqué. On a vu un paquet de nos amis arrêter leur BA1 en plein milieu parce qu'ils étaient dépassés et n'avaient pas appelé à l'aide."
+=======
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 
 # Communiquer
 
@@ -98,32 +114,51 @@ Il existe aussi des guidances comme mentionné ci-dessus : va-y en cas de probl�
 
 Tes assistants aussi sont là pour que tu puisses leur poser des questions. Ce sont des humains qui ont fait les mêmes études que toi, n'aies pas peur d'aller vers eux.
 
+<<<<<<< HEAD
+=======
+On insiste vraiment, mais c'est important : ne reste pas seul, surtout si tu es bloqué.  On a vu un paquet de nos amis arrêter leur BA1 en plein milieu parce qu'ils étaient dépassés et n'avaient pas appelé à l'aide.
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 
 # Partager
 
 Tu verras, sur [Dochub](http://dochub.be/) tu peux ajouter toi même des documents. N'hésite pas à poster ta dernière résolution d'un TP si tu penses que ça pourrait profiter aux autres.
 
+<<<<<<< HEAD
 Relayer à tes camarades, par exemple sur le groupe facebook, les informations importantes qu'un professeur a donné en cours, cela ne prend pas de temps et cela peut beaucoup aider.
+=======
+Relayer à tes camarades (par exemple sur le groupe facebook) les informations importantes qu'un professeur a donné en cours, cela ne prend pas de temps et cela peut beaucoup aider.
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 
 
 1.  L'ULB n'est pas uniquement un lieu de passage où on vient apprendre puis on s'en va, c'est également un lieu de vie.
 
 2.  Pour réussir, il faut s'accrocher. La principale cause du taux d'échec est l'abandon.
 
+<<<<<<< HEAD
 3.  Demander conseil aux étudiants ayant réussi le cours, mais attention, les doubleurs ne sont pas toujours de meilleur conseil.
 
 4.  Discutez de vos méthodes d'étude, testez vos connaissances en groupe et comparez vos résultats. Mais n'oubliez pas de décompresser de temps en temps !
+=======
+3.  Demander conseil aux étudiants ayant réussi le cours, les doubleurs ne sont pas toujours de meilleur conseil.
+
+4.  Discutez de vos méthodes d'étude, testez vos connaissances en groupe et comparer vos résultats. Mais n'oubliez pas de décompresser de temps en temps !
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 
 
 # Se Déplacer
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 L’ULB est une université qui est principalement distribuée sur 3 campus de gauche à droite:
 
 *   le campus de La Plaine où la majorité des cours d'informatique sont données.
 *   le campus du Solbosh où quelques cours du bachelier sont donnés dont le cours de math de première année.
 *   le campus d’Erasme où tu ne mettras pas les pieds pour le cursus d’informatique
 
+<<<<<<< HEAD
 Il arrive fréquemment que, sur une même journée, les cours soient donnés sur le campus de la Plaine et du Solbosh. Cela oblige les étudiants à se déplacer d'un campus à l'autre, situés à une distance de </span>[environ 1km ](https://www.google.fr/maps/dir/50.8137593,4.3843003/50.8181703,4.3959757/@50.8140809,4.3881009,16z?hl=fr). En temps normal, les bus 71 et 72 assurent le trajet.
 
 **Petits conseils :**
@@ -131,6 +166,16 @@ Il arrive fréquemment que, sur une même journée, les cours soient donnés sur
 1.  Si tu es forcé à te déplacer entre les deux campus, utilises l'application qui permet de voir le réseau STIB afin de ne pas attendre un bus qui arrive dans trop longtemps.
 
 2.  Bien qu’ils soient parfois vides, n’oublie pas que des Villos sont à disposition à l’entrée des deux campus, de plus il existe une [promotion](https://www.ulb.ac.be/mobilite/Velo.html) pour les étudiants de l’ULB pendant 6 mois
+=======
+Il arrive fréquemment que, sur une même journée, les cours soient donnés sur le campus de la Plaine et du Solbosh. Cela oblige les étudiants à se déplacer d'un campus à l'autre, situés à une distance de </span>[environ 1km ](https://www.google.fr/maps/dir/50.8137593,4.3843003/50.8181703,4.3959757/@50.8140809,4.3881009,16z?hl=fr). En temps normal les bus 71 et 72 assurent le trajet.
+
+Petits conseils
+
+
+1.  Si tu es forcé à te déplacer entre les deux campus utilises une application qui permet de voir le réseau STIB afin de ne pas attendre un bus qui arrive dans trop longtemps.
+
+2.  Bien qu’ils soient souvent vides n’oublie pas que des Villos sont à disposition à l’entrée des deux campus, de plus il existe une [promotion](https://www.ulb.ac.be/mobilite/Velo.html) pour les étudiants de l’ULB pendant 6 mois
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 
 3.  Certains professeurs accepteront de changer de local pour éviter à tout le monde de devoir se déplacer. Cette demande est habituellement faite par le délégué. Si personne n’est encore désigné n’hésite pas à prendre les devants.
 
@@ -138,7 +183,11 @@ Il arrive fréquemment que, sur une même journée, les cours soient donnés sur
 # Imprimer
 
 
+<<<<<<< HEAD
 Les projets sont souvent à remettre sous format papier dans le bureau de la secrétaire au NO8 afin que les assistants puissent annoter et commenter ton travail. 
+=======
+Les projets sont à remettre sous format papier dans le bureau de la secrétaire au NO8 afin que les assistants puissent annoter et commenter ton travail. 
+>>>>>>> f78095ee1e18366d4ec45e00b2c5c22432cc8210
 
 Pour imprimer rapidement le mieux c'est directement en salle machine du NO ([mode d'emploi](http://www.ulb.ac.be//di/info-f101/ModeEmploi_2010-2011.pdf)). Deux imprimantes sont disponibles pour les étudiants. L’une se trouve au quatrième étage (son nom est dilp0), l’autre au troisième (dilp1). Chaque étudiant peut charger son crédit d’impression en s’adressant au secrétariat étudiant, bureau N8.104, moyennant 2€. Chaque feuille imprimée lui sera facturée 0.05€. Il est toujours possible par la suite de recharger son crédit d’impression au secrétariat étudiant. On peut consulter son quota d’impression en visitant la page web [http://di-net.ulb.ac.be](http://di-net.ulb.ac.be), puis en cliquant sur les quotas d’impression dans Aide et support.
 
