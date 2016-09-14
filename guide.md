@@ -213,7 +213,16 @@ La dernière catégorie de ce petit guide, mais pas des moindres. Certaines note
 *   Salle machine plaine au NO3.07A, NO4.008 et NO4.009\. ([autres campus](http://padi.ulb.ac.be/dokuwiki/doku.php))
 
 
-1.  Il est important d'aller voir ses mails régulièrement, c'est par là que passe grand nombre d'informations importantes: déplacement de cours,... Pour ne rien manquer, il est très simple de rediriger ses mails vers une boite principale. Pour cela:
+1.  Il est important d'aller voir ses mails universitaires régulièrement, c'est par là que passe grand nombre d'informations importantes: déplacement de cours, remises de projets, annonces de dernière minute, ...
+    Pour ne rien manquer, tu peux très facilement intégrer ta boîte mail ULB à ton lecteur d'e-mails préféré sur smartphone ou ordinateur (et si tu n'en as pas encore, c'est un outil immensément pratique !). Tu trouvera comment faire sur les webnotes de l'ULB:
+
+    * [Sur iPhone](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=387&f_type=view&data-file=)
+    * [Sur Mail pour Mac](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=315&f_type=view&data-file=)
+    * [Sur Outlook](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=325&f_type=view&data-file=)
+    * [Sur Thunderbird (tous systèmes)](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=BDB7F8FE1EB8C917E9943EE7BA7302E9?f_context=fiches&noteid=254&language=fr&style=&f_type=view&data-file=)
+
+
+    Enfin, si tu souhaite tout recevoir dans tes mails usuels, pour  il est très simple de rediriger ses mails vers une boite principale. Pour cela:
 
     *   Se connecter sur [webmail](https://webmail.ulb.ac.be).
 
