@@ -4,7 +4,7 @@ Le Cercle Informatique est l'association des étudiants en informatique. Elle a 
 
 **Comment se rendre au local?** A la plaine, le CI se trouve juste en dessous de la cafétaria. Il suffit de longer le chemin qui passe sur la gauche de la cafétaria, de descendre les escaliers, d'aller à ta gauche jusqu’au mur qui te fait face ! Sur ce mur se trouve la porte d’entrée jaune donnant sur le CI. Voir également le [plan](http://cerkinfo.be/fr/#contact).
 
-**Pourquoi s'y rendre?** TODO
+**Pourquoi s'y rendre?** L'apprentissage que tu tireras de l'ULB ne sera pas complet sans avoir visité le CI. L'université est peut-être un lieu où tu apprendras l'informatique, mais ton expérience sera décuplé si tu fréquentes des gens avec la même passion. Tout le monde a quelque chose à t'apprendre, et tu as sûrement quelque chose à apprendre à tout le monde, et le CI est l'endroit parfait pour ça!
 
 # UrLab
 
@@ -14,7 +14,7 @@ Le Cercle Informatique est l'association des étudiants en informatique. Elle a 
 
 **Comment s'y rendre?** Au Solbosch, Sur l'avenue Buyl se situant devant l'entrée principale du campus, rends toi au numéro 131, se situant sur la gauche lorsque tu fais face au Solbosch. Voir également le [plan](https://www.google.fr/maps/place/Avenue+Adolphe+Buyl+131,+1050+Ixelles,+Belgique/@50.812915,4.3843958,17z/data=!3m1!4b1!4m2!3m1!1s0x47c3c4db7fbc4ddf:0xc116d4f94abb1b3a).
 
-**Pourquoi s'y rendre?** TODO
+**Pourquoi s'y rendre?** Le hackerspace est l'endroit parfait pour travailler sur toutes sortes de projets, pour découvrir plein de choses et rencontrer des gens qui s'intéressent à des tas de sujets en informatique. N'hésite pas à y aller avec des amis pour vous lancer dans un projet qui vous apprendra quelque chose à tous!
 
 
 # Cours et support d'étude
