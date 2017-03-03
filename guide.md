@@ -221,7 +221,6 @@ La dernière catégorie de ce petit guide, mais pas des moindres. Certaines note
     * [Sur Outlook](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=325&f_type=view&data-file=)
     * [Sur Thunderbird (tous systèmes)](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=BDB7F8FE1EB8C917E9943EE7BA7302E9?f_context=fiches&noteid=254&language=fr&style=&f_type=view&data-file=)
 
-
     Enfin, si tu souhaite tout recevoir dans tes mails usuels, pour  il est très simple de rediriger ses mails vers une boite principale. Pour cela:
 
     *   Se connecter sur [webmail](https://webmail.ulb.ac.be).
