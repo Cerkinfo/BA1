@@ -62,8 +62,9 @@ Un bon conseil : vas-y, les étudiants dispensant les guidances sont cool et ça
 
 ## Les bibliothèques
 
-Il est intéressant mais pas indispensable de savoir qu'il existe une bibliothèque d'info qui est située dans l'arrière du bureau de la secrétaire Info au NO8. Elle est ouverte de 9h à 16h du lundi au vendredi. L'ULB dispose aussi d'une bibliothèque en ligne appelée [Cible+](http://cibleplus.ulb.ac.be/?0). Cependant, cela ne te sera probablement pas utile si tu rentres en première année.
+Pendant tes études tu auras surement besoin de faire de la recherche dans des références en informatique (i.e. algorithmie theorique). Pour ce genre de livres, la [BST](https://www.bib.ulb.ac.be/) (Bibliothèque des Sciences et Techniques) de l'ULB propose un large catalogue dans toute matière scientifique. Vous pouvez vous y rendre aussi pour étudier pendant les périodes de blocus (ainsi que la [BSH](https://www.bib.ulb.ac.be/fr/bibliotheques/bibliotheque-des-sciences-humaines/index.html)). Elle est ouvert de 9h à 18h du lundi au vendredi, et parfois plus pendant les blocus. 
 
+L'ULB dispose aussi d'une bibliothèque en ligne appelée [Cible+](http://cibleplus.ulb.ac.be/?0). Cependant, cela ne te sera probablement pas utile si tu rentres en première année.
 
 # Réussir
 
@@ -154,7 +155,7 @@ Au Solbosch, pour imprimer sans trop marcher, il y a le [Yes Copy](https://www.g
 
 # Se restaurer
 
-La cafétéria de la Plaine c'est pratique quand on n'a pas le temps de vadrouiller mais il existe plein d'autres endroits où bien manger. Fin gourmet? Dis merci à l'Urlab qui a réalisé un [guide culinaire](http://wiki.urlab.be/Bouffe_a_Proximitey) non exhaustif mais bien fourni. Partage-y tes expériences !
+La cafétéria de la Plaine c'est pratique quand on n'a pas le temps de vadrouiller mais il existe plein d'autres endroits où bien manger.
 
 
 ## La cafet de la Plaine
