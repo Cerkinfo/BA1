@@ -62,7 +62,7 @@ Un bon conseil : vas-y, les étudiants dispensant les guidances sont cool et ça
 
 ## Les bibliothèques
 
-Pendant tes études tu auras surement besoin de faire de la recherche dans des références en informatique (i.e. algorithmie theorique). Pour ce genre de livres, la [BST](https://www.bib.ulb.ac.be/) (Bibliothèque des Sciences et Techniques) de l'ULB propose un large catalogue dans toute matière scientifique. Vous pouvez vous y rendre aussi pour étudier pendant les périodes de blocus (ainsi que la [BSH](https://www.bib.ulb.ac.be/fr/bibliotheques/bibliotheque-des-sciences-humaines/index.html)). Elle est ouvert de 9h à 18h du lundi au vendredi, et parfois plus pendant les blocus. 
+Pendant tes études tu auras surement besoin de faire de la recherche dans des références en informatique (i.e. algorithmie theorique). Pour ce genre de livres, la [BST](http://www.ulb.ac.be/bibliotheques/bst/bst_index.html) (Bibliothèque des Sciences et Techniques) de l'ULB propose un large catalogue dans toute matière scientifique. Vous pouvez vous y rendre aussi pour étudier pendant les périodes de blocus (ainsi que la [BSH](https://www.bib.ulb.ac.be/fr/bibliotheques/bibliotheque-des-sciences-humaines/index.html)). Elle est ouvert de 9h à 18h du lundi au vendredi, et parfois plus pendant les blocus. 
 
 L'ULB dispose aussi d'une bibliothèque en ligne appelée [Cible+](http://cibleplus.ulb.ac.be/?0). Cependant, cela ne te sera probablement pas utile si tu rentres en première année.
 
