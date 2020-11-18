@@ -2,7 +2,7 @@
 
 Le Cercle Informatique est l'association des étudiants en informatique. Elle a pour but de soutenir et d’aider les étudiants d’informatique de l’ULB dans leurs études et de favoriser leur insertion dans la vie universitaire. Ses membres adhèrent au principe du [Libre Examen](http://www.ulb.ac.be/ulb/presentation/librex.html). Elle a également pour but la promotion et la vulgarisation de l’informatique, ainsi que la promotion et la défense du folklore estudiantin.
 
-**Comment se rendre au local?** A la plaine, le CI se trouve juste en dessous de la cafétaria. Il suffit de longer le chemin qui passe sur la gauche de la cafétaria, de descendre les escaliers, d'aller à ta gauche jusqu’au mur qui te fait face ! Sur ce mur se trouve la porte d’entrée jaune donnant sur le CI. Voir également le [plan](http://cerkinfo.be/fr/#contact).
+**Comment se rendre au local?** A la plaine, le CI se trouve juste en dessous de la cafétaria. Il suffit de longer le chemin qui passe sur la gauche de la cafétaria, de descendre les escaliers, d'aller à ta gauche jusqu’au mur qui te fait face ! Sur ce mur se trouve la porte d’entrée jaune donnant sur le CI. Voir également le [plan](https://cercle-informatique.be/#location).
 
 **Pourquoi s'y rendre?** L'apprentissage que tu tireras de l'ULB ne sera pas complet sans avoir visité le CI. L'université est peut-être un lieu où tu apprendras l'informatique, mais ton expérience sera décuplé si tu fréquentes des gens avec la même passion. Tout le monde a quelque chose à t'apprendre, et tu as sûrement quelque chose à apprendre à tout le monde, et le CI est l'endroit parfait pour ça!
 
@@ -52,7 +52,7 @@ Chaque année, un groupe facebook est créé pour une meilleure collaboration et
 
 ## Guidances
 
-Les guidances sont des cours particuliers offerts par des étudiants de master pendant l’heure de midi sur les sujets qui vous posent problème. 
+Les guidances sont des cours particuliers offerts par des étudiants de master pendant l’heure de midi sur les sujets qui vous posent problème.
 Elles sont dispensées aux salles informatiques du NO4 pour l'informatique et au Batiment A pour les maths.
 
 C'est gratuit et c'est un bon moyen d'obtenir des explications plus claires et plus personnalisées sur un sujet qui te pose problème. C'est aussi un moyen d'obtenir de l'aide sur les projets personnels où tu es livré à toi même.
@@ -62,7 +62,7 @@ Un bon conseil : vas-y, les étudiants dispensant les guidances sont cool et ça
 
 ## Les bibliothèques
 
-Pendant tes études tu auras surement besoin de faire de la recherche dans des références en informatique (i.e. algorithmie theorique). Pour ce genre de livres, la [BST](http://www.ulb.ac.be/bibliotheques/bst/bst_index.html) (Bibliothèque des Sciences et Techniques) de l'ULB propose un large catalogue dans toute matière scientifique. Vous pouvez vous y rendre aussi pour étudier pendant les périodes de blocus (ainsi que la [BSH](https://www.bib.ulb.ac.be/fr/bibliotheques/bibliotheque-des-sciences-humaines/index.html)). Elle est ouvert de 9h à 18h du lundi au vendredi, et parfois plus pendant les blocus. 
+Pendant tes études tu auras surement besoin de faire de la recherche dans des références en informatique (i.e. algorithmie theorique). Pour ce genre de livres, la [BST](http://www.ulb.ac.be/bibliotheques/bst/bst_index.html) (Bibliothèque des Sciences et Techniques) de l'ULB propose un large catalogue dans toute matière scientifique. Vous pouvez vous y rendre aussi pour étudier pendant les périodes de blocus (ainsi que la [BSH](https://bib.ulb.be/fr/bibliotheques/bsh)). Elle est ouvert de 9h à 18h du lundi au vendredi, et parfois plus pendant les blocus.
 
 L'ULB dispose aussi d'une bibliothèque en ligne appelée [Cible+](http://cibleplus.ulb.ac.be/?0). Cependant, cela ne te sera probablement pas utile si tu rentres en première année.
 
@@ -81,7 +81,7 @@ L'ULB dispose aussi d'une bibliothèque en ligne appelée [Cible+](http://cible
 
 5.  _En fin de cycle, c’est-à-dire lorsque 180 crédits au moins auront été acquis pour le bachelier, le jury délivrera le grade académique et déterminera la mention éventuelle (distinction, etc.) sur base de l’ensemble des résultats de toutes les années académiques durant lesquelles l’étudiant aura été inscrit, notamment la moyenne totale._
 
-Ces informations proviennent du président du jury, Yves Roggeman.
+Ces informations proviennent de l'ancien président du jury, Yves Roggeman.
 
 ## Conseils des anciens délégués
 
@@ -134,7 +134,7 @@ Il arrive fréquemment que, sur une même journée, les cours soient donnés sur
 
 1.  Si tu es forcé à te déplacer entre les deux campus, utilise l'application qui permet de voir le réseau STIB afin de ne pas attendre un bus qui arrive dans trop longtemps.
 
-2.  Bien qu’ils soient parfois vides, n’oublie pas que des Villos sont à disposition à l’entrée des deux campus, de plus il existe une [promotion](https://www.ulb.ac.be/mobilite/Velo.html) pour les étudiants de l’ULB pendant 6 mois
+2.  Bien qu’ils soient parfois vides, n’oublie pas que des Villos sont à disposition à l’entrée des deux campus, de plus il y a souvent des promotion pour les étudiants pendant 6 mois
 
 3.  Certains professeurs accepteront de changer de local pour éviter à tout le monde de devoir se déplacer. Cette demande est habituellement faite par le délégué. Si personne n’est encore désigné n’hésite pas à prendre les devants.
 
@@ -142,11 +142,11 @@ Il arrive fréquemment que, sur une même journée, les cours soient donnés sur
 # Imprimer
 
 
-Les projets sont souvent à remettre sous format papier dans le bureau de la secrétaire au NO8 afin que les assistants puissent annoter et commenter ton travail. 
+Les projets sont souvent à remettre sous format papier dans le bureau de la secrétaire au NO8 afin que les assistants puissent annoter et commenter ton travail.
 
 Pour imprimer rapidement le mieux c'est directement en salle machine du NO ([mode d'emploi](http://www.ulb.ac.be//di/info-f101/ModeEmploi_2010-2011.pdf)). Deux imprimantes sont disponibles pour les étudiants. L’une se trouve au quatrième étage (son nom est dilp0), l’autre au troisième (dilp1). Chaque étudiant peut charger son crédit d’impression en s’adressant au secrétariat étudiant, bureau N8.104, moyennant 2€. Chaque feuille imprimée lui sera facturée 0.05€. Il est toujours possible par la suite de recharger son crédit d’impression au secrétariat étudiant. On peut consulter son quota d’impression en visitant la page web [http://di-net.ulb.ac.be](http://di-net.ulb.ac.be), puis en cliquant sur les quotas d’impression dans Aide et support.
 
-Pour imprimer pas cher le mieux c'est le [Crazy Copy Center](http://www.crazycopy.be/fr/index.php) à la VUB qui pratique un [tarif dégressif](http://www.crazycopy.be/downloads/prijslijst.pdf) fonction de la quantité (jusqu'à 0.031€ par feuille en n&b). Voir le plan sur la [page d'accueil](http://www.crazycopy.be/nl/index.php) en néerlandais > plan Crazy Copy VUB.
+Pour imprimer pas cher le mieux c'est le [Crazy Copy Center](http://www.crazycopy.be/fr/index.php) à la VUB qui pratique un [tarif dégressif](http://www.crazycopy.be/downloads/prijslijst.pdf) fonction de la quantité (de 0.056€ à 0.034€ par feuille en n&b). Voir le plan sur la [page d'accueil](http://www.crazycopy.be/nl/index.php) en néerlandais > plan Crazy Copy VUB.
 
 Avant d'imprimer un cours, vérifie aux PUB, parce que certains cours, vendus à des prix raisonnables, y sont déjà imprimés et reliés. Les PUB font également les impressions des mémoires, voir la [liste complète](https://www.ulb.ac.be/pub/produitsimprimerie.html).
 
@@ -177,10 +177,10 @@ Rentre dans le bâtiment qui se trouve en face de toi, par la porte se trouvant 
     *   [Carrefour Market](https://www.google.fr/maps/place/Carrefour+market+BOONDAEL+%28IXELLES%29/@50.816823,4.389189,17z/data=!3m1!4b1!4m2!3m1!1s0x47c3c4c516ebd5e7:0x4bbd9cd27acf5607) sur la chaussée de Boondael
     *   [Okay](https://www.google.fr/maps/place/Okay+Compact/@50.8150137,4.389036,18.36z/data=!4m2!3m1!1s0x47c3c4dacb604d15:0x5a527724e1792c14) sur l'avenue de l'Université
 *   Solbosch
-    *   [Shanti ](https://www.google.fr/maps/place/Shanti+-+Restaurant/@50.8169208,4.3810688,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0xe70e82779bbabf96)magasin bio sur l'avenue Buyl
+    *   [Shanti] (https://www.google.fr/maps/place/Shanti+-+Restaurant/@50.8169208,4.3810688,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0xe70e82779bbabf96)magasin bio sur l'avenue Buyl
     *   [Carrefour express](https://www.google.fr/maps/place/Carrefour+express+A.+BUYL/@50.8181287,4.3796403,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0x820b1f2ee6840436) en contrebas de l'avenue Buyl
 
-Conseils : 
+Conseils :
 
 1.  Sois aventureux, essaye différent endroit, la cafétéria de la plaine n'est pas le seul lieu de restauration.
 
@@ -209,30 +209,16 @@ La dernière catégorie de ce petit guide, mais pas des moindres. Certaines note
 *   [Dochub](/en-gb/admin/guide/guide/1/change/http:/cours.cerkinfo.be) : cours, slides, résumés, interro, tps, corrigés, tout pour réussir.
 *   Tes horaires sur [GeHol](http://gehol.ulb.ac.be/)
 *   Ton miverval, tes notes, ... sur [Mon ULB](https://mon-ulb.ulb.ac.be)
-*   Tes [mails](https://webmail.ulb.ac.be/) (à aller voir très régulièrement)
 *   Les valves d'informatique dans la rotule du NO8.
-*   Salle machine plaine au NO3.07A, NO4.008 et NO4.009\. ([autres campus](http://padi.ulb.ac.be/dokuwiki/doku.php))
+*   Salle machine plaine au NO3.07A, NO4.008 et NO4.009\.
 
 
 1.  Il est important d'aller voir ses mails universitaires régulièrement, c'est par là que passe grand nombre d'informations importantes: déplacement de cours, remises de projets, annonces de dernière minute, ...
-    Pour ne rien manquer, tu peux très facilement intégrer ta boîte mail ULB à ton lecteur d'e-mails préféré sur smartphone ou ordinateur (et si tu n'en as pas encore, c'est un outil immensément pratique !). Tu trouvera comment faire sur les webnotes de l'ULB:
+    Pour ne rien manquer, tu peux très facilement te connecter [outlook](https://outlook.office.com) ou tout client de messagerie capable de se connecter à un serveur Microsoft Exchange.
 
-    * [Sur iPhone](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=387&f_type=view&data-file=)
-    * [Sur Mail pour Mac](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=315&f_type=view&data-file=)
-    * [Sur Outlook](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=325&f_type=view&data-file=)
-    * [Sur Thunderbird (tous systèmes)](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=BDB7F8FE1EB8C917E9943EE7BA7302E9?f_context=fiches&noteid=254&language=fr&style=&f_type=view&data-file=)
+2.  Si tu veux obtenir Word, Exel,... et surtout Teams il faudra également te connecter a [office365](https://www2.ulb.ac.be/dinfo/office365/)
 
-    Enfin, si tu souhaite tout recevoir dans tes mails usuels, pour  il est très simple de rediriger ses mails vers une boite principale. Pour cela:
 
-    *   Se connecter sur [webmail](https://webmail.ulb.ac.be).
+3.  L'ULB dispose maintenant d'une application compatible [android](https://play.google.com/store/apps/details?id=be.ac.ulb.monulb&hl=fr) et [iPhone](https://itunes.apple.com/be/app/monulb/id979157186?mt=8) qui t’alerte directement dès qu'une note est disponible. Installe la.
 
-    *   Puis Settings (en haut à droite) > Out of Office/Forward (dans les onglets) > Forwarding settings (dernier cadre)
-
-    *   Checker ”deliver messages into your VUB/ULB mailbox”
-
-    *   Ajouter l’adresse dans le champs ”Forward mail to”
-
-2.  L'ULB dispose maintenant d'une application compatible [android](https://play.google.com/store/apps/details?id=be.ac.ulb.monulb&hl=fr) et [iPhone](https://itunes.apple.com/be/app/monulb/id979157186?mt=8) qui t’alerte directement dès qu'une note est disponible. Installe la.
-
-3.  Ces liens serviront tout au long de l'année, ajoute-les dans tes favoris dès maintenant.
-
+4.  Ces liens serviront tout au long de l'année, ajoute-les dans tes favoris dès maintenant.
