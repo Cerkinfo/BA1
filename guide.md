@@ -134,7 +134,7 @@ Il arrive fréquemment que, sur une même journée, les cours soient donnés sur
 
 1.  Si tu es forcé à te déplacer entre les deux campus, utilise l'application qui permet de voir le réseau STIB afin de ne pas attendre un bus qui arrive dans trop longtemps.
 
-2.  Bien qu’ils soient parfois vides, n’oublie pas que des Villos sont à disposition à l’entrée des deux campus, de plus il existe une [promotion](https://www.ulb.ac.be/mobilite/Velo.html) pour les étudiants de l’ULB pendant 6 mois
+2.  Bien qu’ils soient parfois vides, n’oublie pas que des Villos sont à disposition à l’entrée des deux campus, de plus il y a souvent des promotion pour les étudiants pendant 6 mois
 
 3.  Certains professeurs accepteront de changer de local pour éviter à tout le monde de devoir se déplacer. Cette demande est habituellement faite par le délégué. Si personne n’est encore désigné n’hésite pas à prendre les devants.
 
