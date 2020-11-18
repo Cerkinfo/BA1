@@ -81,7 +81,7 @@ L'ULB dispose aussi d'une bibliothèque en ligne appelée [Cible+](http://cible
 
 5.  _En fin de cycle, c’est-à-dire lorsque 180 crédits au moins auront été acquis pour le bachelier, le jury délivrera le grade académique et déterminera la mention éventuelle (distinction, etc.) sur base de l’ensemble des résultats de toutes les années académiques durant lesquelles l’étudiant aura été inscrit, notamment la moyenne totale._
 
-Ces informations proviennent du président du jury, Yves Roggeman.
+Ces informations proviennent de l'ancien président du jury, Yves Roggeman.
 
 ## Conseils des anciens délégués
 
