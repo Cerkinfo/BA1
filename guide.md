@@ -146,7 +146,7 @@ Les projets sont souvent à remettre sous format papier dans le bureau de la sec
 
 Pour imprimer rapidement le mieux c'est directement en salle machine du NO ([mode d'emploi](http://www.ulb.ac.be//di/info-f101/ModeEmploi_2010-2011.pdf)). Deux imprimantes sont disponibles pour les étudiants. L’une se trouve au quatrième étage (son nom est dilp0), l’autre au troisième (dilp1). Chaque étudiant peut charger son crédit d’impression en s’adressant au secrétariat étudiant, bureau N8.104, moyennant 2€. Chaque feuille imprimée lui sera facturée 0.05€. Il est toujours possible par la suite de recharger son crédit d’impression au secrétariat étudiant. On peut consulter son quota d’impression en visitant la page web [http://di-net.ulb.ac.be](http://di-net.ulb.ac.be), puis en cliquant sur les quotas d’impression dans Aide et support.
 
-Pour imprimer pas cher le mieux c'est le [Crazy Copy Center](http://www.crazycopy.be/fr/index.php) à la VUB qui pratique un [tarif dégressif](http://www.crazycopy.be/downloads/prijslijst.pdf) fonction de la quantité (jusqu'à 0.031€ par feuille en n&b). Voir le plan sur la [page d'accueil](http://www.crazycopy.be/nl/index.php) en néerlandais > plan Crazy Copy VUB.
+Pour imprimer pas cher le mieux c'est le [Crazy Copy Center](http://www.crazycopy.be/fr/index.php) à la VUB qui pratique un [tarif dégressif](http://www.crazycopy.be/downloads/prijslijst.pdf) fonction de la quantité (de 0.056€ à 0.034€ par feuille en n&b). Voir le plan sur la [page d'accueil](http://www.crazycopy.be/nl/index.php) en néerlandais > plan Crazy Copy VUB.
 
 Avant d'imprimer un cours, vérifie aux PUB, parce que certains cours, vendus à des prix raisonnables, y sont déjà imprimés et reliés. Les PUB font également les impressions des mémoires, voir la [liste complète](https://www.ulb.ac.be/pub/produitsimprimerie.html).
 
@@ -177,7 +177,7 @@ Rentre dans le bâtiment qui se trouve en face de toi, par la porte se trouvant 
     *   [Carrefour Market](https://www.google.fr/maps/place/Carrefour+market+BOONDAEL+%28IXELLES%29/@50.816823,4.389189,17z/data=!3m1!4b1!4m2!3m1!1s0x47c3c4c516ebd5e7:0x4bbd9cd27acf5607) sur la chaussée de Boondael
     *   [Okay](https://www.google.fr/maps/place/Okay+Compact/@50.8150137,4.389036,18.36z/data=!4m2!3m1!1s0x47c3c4dacb604d15:0x5a527724e1792c14) sur l'avenue de l'Université
 *   Solbosch
-    *   [Shanti ](https://www.google.fr/maps/place/Shanti+-+Restaurant/@50.8169208,4.3810688,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0xe70e82779bbabf96)magasin bio sur l'avenue Buyl
+    *   [Shanti] (https://www.google.fr/maps/place/Shanti+-+Restaurant/@50.8169208,4.3810688,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0xe70e82779bbabf96)magasin bio sur l'avenue Buyl
     *   [Carrefour express](https://www.google.fr/maps/place/Carrefour+express+A.+BUYL/@50.8181287,4.3796403,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0x820b1f2ee6840436) en contrebas de l'avenue Buyl
 
 Conseils :
@@ -209,7 +209,6 @@ La dernière catégorie de ce petit guide, mais pas des moindres. Certaines note
 *   [Dochub](/en-gb/admin/guide/guide/1/change/http:/cours.cerkinfo.be) : cours, slides, résumés, interro, tps, corrigés, tout pour réussir.
 *   Tes horaires sur [GeHol](http://gehol.ulb.ac.be/)
 *   Ton miverval, tes notes, ... sur [Mon ULB](https://mon-ulb.ulb.ac.be)
-*   Tes [mails](https://webmail.ulb.ac.be/) (à aller voir très régulièrement)
 *   Les valves d'informatique dans la rotule du NO8.
 *   Salle machine plaine au NO3.07A, NO4.008 et NO4.009\. ([autres campus](http://padi.ulb.ac.be/dokuwiki/doku.php))
 
