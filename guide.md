@@ -2,7 +2,7 @@
 
 Le Cercle Informatique est l'association des étudiants en informatique. Elle a pour but de soutenir et d’aider les étudiants d’informatique de l’ULB dans leurs études et de favoriser leur insertion dans la vie universitaire. Ses membres adhèrent au principe du [Libre Examen](http://www.ulb.ac.be/ulb/presentation/librex.html). Elle a également pour but la promotion et la vulgarisation de l’informatique, ainsi que la promotion et la défense du folklore estudiantin.
 
-**Comment se rendre au local?** A la plaine, le CI se trouve juste en dessous de la cafétaria. Il suffit de longer le chemin qui passe sur la gauche de la cafétaria, de descendre les escaliers, d'aller à ta gauche jusqu’au mur qui te fait face ! Sur ce mur se trouve la porte d’entrée jaune donnant sur le CI. Voir également le [plan](http://cerkinfo.be/fr/#contact).
+**Comment se rendre au local?** A la plaine, le CI se trouve juste en dessous de la cafétaria. Il suffit de longer le chemin qui passe sur la gauche de la cafétaria, de descendre les escaliers, d'aller à ta gauche jusqu’au mur qui te fait face ! Sur ce mur se trouve la porte d’entrée jaune donnant sur le CI. Voir également le [plan](https://cercle-informatique.be/#location).
 
 **Pourquoi s'y rendre?** L'apprentissage que tu tireras de l'ULB ne sera pas complet sans avoir visité le CI. L'université est peut-être un lieu où tu apprendras l'informatique, mais ton expérience sera décuplé si tu fréquentes des gens avec la même passion. Tout le monde a quelque chose à t'apprendre, et tu as sûrement quelque chose à apprendre à tout le monde, et le CI est l'endroit parfait pour ça!
 
@@ -52,7 +52,7 @@ Chaque année, un groupe facebook est créé pour une meilleure collaboration et
 
 ## Guidances
 
-Les guidances sont des cours particuliers offerts par des étudiants de master pendant l’heure de midi sur les sujets qui vous posent problème. 
+Les guidances sont des cours particuliers offerts par des étudiants de master pendant l’heure de midi sur les sujets qui vous posent problème.
 Elles sont dispensées aux salles informatiques du NO4 pour l'informatique et au Batiment A pour les maths.
 
 C'est gratuit et c'est un bon moyen d'obtenir des explications plus claires et plus personnalisées sur un sujet qui te pose problème. C'est aussi un moyen d'obtenir de l'aide sur les projets personnels où tu es livré à toi même.
@@ -62,7 +62,7 @@ Un bon conseil : vas-y, les étudiants dispensant les guidances sont cool et ça
 
 ## Les bibliothèques
 
-Pendant tes études tu auras surement besoin de faire de la recherche dans des références en informatique (i.e. algorithmie theorique). Pour ce genre de livres, la [BST](http://www.ulb.ac.be/bibliotheques/bst/bst_index.html) (Bibliothèque des Sciences et Techniques) de l'ULB propose un large catalogue dans toute matière scientifique. Vous pouvez vous y rendre aussi pour étudier pendant les périodes de blocus (ainsi que la [BSH](https://www.bib.ulb.ac.be/fr/bibliotheques/bibliotheque-des-sciences-humaines/index.html)). Elle est ouvert de 9h à 18h du lundi au vendredi, et parfois plus pendant les blocus. 
+Pendant tes études tu auras surement besoin de faire de la recherche dans des références en informatique (i.e. algorithmie theorique). Pour ce genre de livres, la [BST](http://www.ulb.ac.be/bibliotheques/bst/bst_index.html) (Bibliothèque des Sciences et Techniques) de l'ULB propose un large catalogue dans toute matière scientifique. Vous pouvez vous y rendre aussi pour étudier pendant les périodes de blocus (ainsi que la [BSH](https://bib.ulb.be/fr/bibliotheques/bsh)). Elle est ouvert de 9h à 18h du lundi au vendredi, et parfois plus pendant les blocus.
 
 L'ULB dispose aussi d'une bibliothèque en ligne appelée [Cible+](http://cibleplus.ulb.ac.be/?0). Cependant, cela ne te sera probablement pas utile si tu rentres en première année.
 
@@ -142,7 +142,7 @@ Il arrive fréquemment que, sur une même journée, les cours soient donnés sur
 # Imprimer
 
 
-Les projets sont souvent à remettre sous format papier dans le bureau de la secrétaire au NO8 afin que les assistants puissent annoter et commenter ton travail. 
+Les projets sont souvent à remettre sous format papier dans le bureau de la secrétaire au NO8 afin que les assistants puissent annoter et commenter ton travail.
 
 Pour imprimer rapidement le mieux c'est directement en salle machine du NO ([mode d'emploi](http://www.ulb.ac.be//di/info-f101/ModeEmploi_2010-2011.pdf)). Deux imprimantes sont disponibles pour les étudiants. L’une se trouve au quatrième étage (son nom est dilp0), l’autre au troisième (dilp1). Chaque étudiant peut charger son crédit d’impression en s’adressant au secrétariat étudiant, bureau N8.104, moyennant 2€. Chaque feuille imprimée lui sera facturée 0.05€. Il est toujours possible par la suite de recharger son crédit d’impression au secrétariat étudiant. On peut consulter son quota d’impression en visitant la page web [http://di-net.ulb.ac.be](http://di-net.ulb.ac.be), puis en cliquant sur les quotas d’impression dans Aide et support.
 
@@ -180,7 +180,7 @@ Rentre dans le bâtiment qui se trouve en face de toi, par la porte se trouvant 
     *   [Shanti ](https://www.google.fr/maps/place/Shanti+-+Restaurant/@50.8169208,4.3810688,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0xe70e82779bbabf96)magasin bio sur l'avenue Buyl
     *   [Carrefour express](https://www.google.fr/maps/place/Carrefour+express+A.+BUYL/@50.8181287,4.3796403,18.81z/data=!4m5!1m2!2m1!1smagasin!3m1!1s0x0000000000000000:0x820b1f2ee6840436) en contrebas de l'avenue Buyl
 
-Conseils : 
+Conseils :
 
 1.  Sois aventureux, essaye différent endroit, la cafétéria de la plaine n'est pas le seul lieu de restauration.
 
@@ -235,4 +235,3 @@ La dernière catégorie de ce petit guide, mais pas des moindres. Certaines note
 2.  L'ULB dispose maintenant d'une application compatible [android](https://play.google.com/store/apps/details?id=be.ac.ulb.monulb&hl=fr) et [iPhone](https://itunes.apple.com/be/app/monulb/id979157186?mt=8) qui t’alerte directement dès qu'une note est disponible. Installe la.
 
 3.  Ces liens serviront tout au long de l'année, ajoute-les dans tes favoris dès maintenant.
-
