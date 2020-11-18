@@ -210,27 +210,15 @@ La dernière catégorie de ce petit guide, mais pas des moindres. Certaines note
 *   Tes horaires sur [GeHol](http://gehol.ulb.ac.be/)
 *   Ton miverval, tes notes, ... sur [Mon ULB](https://mon-ulb.ulb.ac.be)
 *   Les valves d'informatique dans la rotule du NO8.
-*   Salle machine plaine au NO3.07A, NO4.008 et NO4.009\. ([autres campus](http://padi.ulb.ac.be/dokuwiki/doku.php))
+*   Salle machine plaine au NO3.07A, NO4.008 et NO4.009\.
 
 
 1.  Il est important d'aller voir ses mails universitaires régulièrement, c'est par là que passe grand nombre d'informations importantes: déplacement de cours, remises de projets, annonces de dernière minute, ...
-    Pour ne rien manquer, tu peux très facilement intégrer ta boîte mail ULB à ton lecteur d'e-mails préféré sur smartphone ou ordinateur (et si tu n'en as pas encore, c'est un outil immensément pratique !). Tu trouvera comment faire sur les webnotes de l'ULB:
+    Pour ne rien manquer, tu peux très facilement te connecter [outlook](https://outlook.office.com) ou tout client de messagerie capable de se connecter à un serveur Microsoft Exchange.
 
-    * [Sur iPhone](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=387&f_type=view&data-file=)
-    * [Sur Mail pour Mac](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=315&f_type=view&data-file=)
-    * [Sur Outlook](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=0408BDA3F19B5F68E605D9033BD4E106?f_context=fiches&language=fr&style=&noteid=325&f_type=view&data-file=)
-    * [Sur Thunderbird (tous systèmes)](http://www.ulb.ac.be/wserv2_oratio/oratio;jsessionid=BDB7F8FE1EB8C917E9943EE7BA7302E9?f_context=fiches&noteid=254&language=fr&style=&f_type=view&data-file=)
+2.  Si tu veux obtenir Word, Exel,... et surtout Teams il faudra également te connecter a [office365](https://www2.ulb.ac.be/dinfo/office365/)
 
-    Enfin, si tu souhaite tout recevoir dans tes mails usuels, pour  il est très simple de rediriger ses mails vers une boite principale. Pour cela:
 
-    *   Se connecter sur [webmail](https://webmail.ulb.ac.be).
+3.  L'ULB dispose maintenant d'une application compatible [android](https://play.google.com/store/apps/details?id=be.ac.ulb.monulb&hl=fr) et [iPhone](https://itunes.apple.com/be/app/monulb/id979157186?mt=8) qui t’alerte directement dès qu'une note est disponible. Installe la.
 
-    *   Puis Settings (en haut à droite) > Out of Office/Forward (dans les onglets) > Forwarding settings (dernier cadre)
-
-    *   Checker ”deliver messages into your VUB/ULB mailbox”
-
-    *   Ajouter l’adresse dans le champs ”Forward mail to”
-
-2.  L'ULB dispose maintenant d'une application compatible [android](https://play.google.com/store/apps/details?id=be.ac.ulb.monulb&hl=fr) et [iPhone](https://itunes.apple.com/be/app/monulb/id979157186?mt=8) qui t’alerte directement dès qu'une note est disponible. Installe la.
-
-3.  Ces liens serviront tout au long de l'année, ajoute-les dans tes favoris dès maintenant.
+4.  Ces liens serviront tout au long de l'année, ajoute-les dans tes favoris dès maintenant.
