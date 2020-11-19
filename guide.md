@@ -1,6 +1,6 @@
 # Le Cercle Informatique
 
-Le Cercle Informatique est l'association des étudiants en informatique. Elle a pour but de soutenir et d’aider les étudiants d’informatique de l’ULB dans leurs études et de favoriser leur insertion dans la vie universitaire. Ses membres adhèrent au principe du [Libre Examen](http://www.ulb.ac.be/ulb/presentation/librex.html). Elle a également pour but la promotion et la vulgarisation de l’informatique, ainsi que la promotion et la défense du folklore estudiantin.
+Le Cercle Informatique est l'association des étudiants en informatique. Elle a pour but de soutenir et d’aider les étudiants d’informatique de l’ULB dans leurs études et de favoriser leur insertion dans la vie universitaire. Ses membres adhèrent au principe du [Libre Examen](https://actus.ulb.be/fr/presse/kit-media/le-principe-du-libre-examen). Elle a également pour but la promotion et la vulgarisation de l’informatique, ainsi que la promotion et la défense du folklore estudiantin.
 
 **Comment se rendre au local?** A la plaine, le CI se trouve juste en dessous de la cafétaria. Il suffit de longer le chemin qui passe sur la gauche de la cafétaria, de descendre les escaliers, d'aller à ta gauche jusqu’au mur qui te fait face ! Sur ce mur se trouve la porte d’entrée jaune donnant sur le CI. Voir également le [plan](https://cercle-informatique.be/#location).
 
